@@ -1,0 +1,55 @@
+﻿/*Page-specific styling */
+
+.padding {
+    padding: 15px;
+}
+
+/*html{ height: 100%; }
+body
+{
+    background-color: #f5f5f5;
+}
+textarea
+{
+    border: 1px solid #EEEEEE;
+    box-shadow: 1px 1px 0 #DDDDDD;
+    display: block;
+    font-family: 'Marck Script',cursive;
+    font-size: 22px;
+    line-height: 50px;
+    margin: 2% auto;
+    padding: 11px 20px 0 70px;
+    resize: none;
+    height: 689px;
+    width: 530px;
+    
+    background-image: -moz-linear-gradient(top , transparent, transparent 49px,#E7EFF8 0px), -moz-radial-gradient(4% 50%, circle closest-corner, #f5f5f5, #f5f5f5 39%, transparent 0%), -moz-radial-gradient(3.9% 46% , circle closest-corner, #CCCCCC, #CCCCCC 43.5%, transparent 0%); 
+    background-image: -webkit-linear-gradient(top , transparent, transparent 49px,#E7EFF8 0), -webkit-radial-gradient(4% 50%, circle closest-corner, #f5f5f5, #f5f5f5 39%, transparent 0%), -webkit-radial-gradient(3.9% 46%, circle closest-corner, #cccccc, #cccccc 43.5%, transparent 0%);
+    
+    -webkit-background-size:  100% 50px;
+    background-size: 100% 50px;
+}*/
+
+main { height: 100vh; width: 100vw; padding-top: 30vh; }
+*:focus{ outline:none; }
+.window { padding: 0 !important; }
+.window-header { width: 100%; padding: 1em; }
+/*.window-buttons {
+  width: .75em;
+  height: .75em;
+  background: Crimson;
+  border-radius: 50%;
+  box-shadow: 15px 0 0 Orange, 30px 0 0 LimeGreen;
+}*/
+.window-editor { height: 80vh; }
+.window-editor textarea {
+  padding: 1em;
+  width:100%;
+  height:100%;
+  resize: none;
+  font-family:'PT Mono', monospace;
+  background: transparent;
+  white-space:pre-wrap;
+  word-wrap: break-word;
+  line-height: 1.25em;
+}

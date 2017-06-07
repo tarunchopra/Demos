@@ -1,0 +1,57 @@
+﻿/*Page-specific styling */
+
+/*.padding {
+    padding: 15px;
+}*/
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.ms-MessageBanner-clipper {
+  
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+.ms-MessageBanner-close {
+    margin-right: 20px;
+}
+
+/*html{ height: 100%; }
+body
+{
+    background-color: #f5f5f5;
+}*/
+/*.CodeMirror
+{
+    
+    height: 70%;
+}*/
+
+/*main { height: 100vh; width: 100vw; padding-top: 30vh; }
+*:focus{ outline:none; }
+.window { padding: 0 !important; }
+.window-header { width: 100%; padding: 1em; }*/
+/*.window-buttons {
+  width: .75em;
+  height: .75em;
+  background: Crimson;
+  border-radius: 50%;
+  box-shadow: 15px 0 0 Orange, 30px 0 0 LimeGreen;
+}*/
+/*.window-editor { height: 80vh; }
+.window-editor textarea {
+  padding: 1em;
+  width:100%;
+  height:100%;
+  resize: none;
+  font-family:'PT Mono', monospace;
+  background: transparent;
+  white-space:pre-wrap;
+  word-wrap: break-word;
+  line-height: 1.25em;
+}*/
